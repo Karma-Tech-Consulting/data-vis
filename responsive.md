@@ -18,4 +18,4 @@ And within __appy these rules__ is any CSS rule you would normally write, such a
 
 ___
 
-Anyway, the relevance here is that for the data-visualization (see README) we don't necessarily want to use bootstrap for making the application responsive. We should use pure media queries rather than the help of bootstrap - we can be more specific this way. Maybe it is as simple as setting the map on the right for large screens, and at the bottom for small screens - or have multipl tabs for small screens, to switch between the map, and the options for narrowing down the markers on the map (the preferences area).
+Anyway, the relevance here is that for the data-visualization (see README) we don't necessarily want to use bootstrap for making the application responsive. We should use pure media queries rather than the help of bootstrap - we can be more specific this way. Maybe it is as simple as setting the map on the right for large screens, and at the bottom for small screens - or have multipl tabs for small screens, to switch between the map, and the options for narrowing down the markers on the map (the preferences area) in a different place depending on screen size.
